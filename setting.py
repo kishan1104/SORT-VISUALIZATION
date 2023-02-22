@@ -1,0 +1,16 @@
+
+
+
+WHITE = (255,255,255)
+BLACK = (0,0,0)
+
+FPS = 60
+
+SIZE = 20
+COL = 50
+
+CONTROLS = 70
+
+WIDTH = COL * SIZE +1
+HEIGHT = 600
+
